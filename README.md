@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on exciting projects 
 - 🌱 I’m learning React.js, JavaScript, and C# (.NET).
 - 👯 I’m looking to collaborate on open-source projects and creative web applications.
-- 💬 Ask me about web development, front-end design, and beginner C# projects!
+- 💬 Ask me about web development, front-end design, and beginner MERN projects!
 - 📫 How to reach me: vitharanadilshani@gmail.com
 - 😄 Fun fact: I love turning ideas into real-world applications!
 
